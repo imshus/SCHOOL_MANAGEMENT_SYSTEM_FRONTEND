@@ -7,7 +7,7 @@ import { useEffect, useState } from "react";
 import DeleteIcon from '@mui/icons-material/Delete';
 import EditIcon from '@mui/icons-material/Edit';
 import MessageSnackbar from "../../../../basic utility components/snackbar/MessageSnakbar";
-import { subjectSchema } from "../../../yupSchema/SubjectSchema";
+import { subjectSchema } from "../../../yupSchema/subjectSchema";
 
 const Subject = () => {
     const [subject, setSubject] = useState([]);
