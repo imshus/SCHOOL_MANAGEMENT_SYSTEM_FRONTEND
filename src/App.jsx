@@ -18,7 +18,7 @@ import TeacherSchool from './school/components/teacher/Teacher'
 import Home from './client/components/home/Home'
 import Login from './client/components/login/Login'
 import Register from './client/components/register/Register'
-import Logout from './client/components/logout/logout'
+import Logout from './client/components/logout/Logout'
 
 import TeacherDetail from './teacher/components/Teacher/TeacherDetails'
 import AttendanceTeacher from './teacher/components/attendance/AttendanceTeacher'
